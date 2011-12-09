@@ -1,0 +1,15 @@
+﻿<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:YammerHub">
+
+    <local:MainViewModel.MyFeedItems>
+        <local:MessageViewModel LineOne="Design One" Date="september 9 19:31" LineTwo="Maecenas praesent accumsan bibendum praesent accumsan bibendum praesent accumsan bibendum praesent accumsan bibendum" Image="http://whoopdwhoop.com/images/default_user.png"/>
+        <local:MessageViewModel LineOne="Design Two" Date="september 8 17:15" LineTwo="Dictumst eleifend facilisi faucibus praesent accumsan bibendum praesent accumsan bibendum praesent accumsan bibendum" Image="http://whoopdwhoop.com/images/default_user.png"/>
+        <local:MessageViewModel LineOne="Design Three" Date="september 8 17:01" LineTwo="Habitant inceptos interdum lobortis praesent accumsan bibendum praesent accumsan bibendum" Image="http://whoopdwhoop.com/images/default_user.png"/>
+        <local:MessageViewModel LineOne="Design Four" Date="june 13 18:53" LineTwo="Nascetur pharetra placerat pulvinar praesent accumsan bibendum praesent accumsan bibendum praesent accumsan bibendum praesent accumsan bibendum praesent accumsan bibendum" Image="http://whoopdwhoop.com/images/default_user.png"/>
+        <local:MessageViewModel LineOne="designfive" Date="march 2 14:22" LineTwo="Sagittis senectus sociosqu suscipit" Image="http://whoopdwhoop.com/images/default_user.png"/>
+        <local:MessageViewModel LineOne="Design Six" Date="dicember 12 13:01" LineTwo="Torquent ultrices vehicula volutpat praesent accumsan bibendum praesent accumsan bibendum" Image="http://whoopdwhoop.com/images/default_user.png"/>
+    </local:MainViewModel.MyFeedItems>
+    
+</local:MainViewModel>
